@@ -5,7 +5,7 @@
 
 Data professional with 2.5 years of industry experience in BI, ETL and reporting, currently completing an MSc in Data Science at the University of Europe for Applied Sciences in Berlin, graduating August 2026. I build complete systems rather than isolated notebooks: pipelines that run on a schedule, dashboards people actually use, and models that are evaluated properly rather than demoed once.
 
-🧭 **Currently:** writing my MSc thesis on a governance first RAG system aligned with EU AI Act requirements, and applying for full time roles starting September 2026.
+**Currently:** writing my MSc thesis on a governance first RAG system aligned with EU AI Act requirements, and applying for full time roles starting September 2026.
 
 ---
 
